@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Kun Wang is currently the lecture of the School of Computer Engineering and Science, Shanghai University. She has finished her a Postdoctoral Research fellow at Australian Artificial Intelligence Institute (AAII), Faculty of Engineering and Information Technology (FEIT), University of Technology Sydney (UTS). She received her Ph.D. in Software Engineering from the University of Technology Sydney (UTS) in 2024, and her Ph.D. in Management Science and Engineering from Shanghai University (SHU) in 2023. Her research interests include concept drift adaptation, data stream mining, machine learning, and information management. She have publish papers on journals and conferences like TCYB, Neurocomputing, Physica A, AJCAI, FLIN-ISKE, KES. She also serves as a reviewer of journals and conferences like TNNLS, TFS, TCYB, KBS, Neurocomputing, Neural Networks, FLINS-ISKE, AJCAI, IJCNN, AAAI, ACMM, SIGKDD Workshop, ICLR, ICML. She also works as PC members of FLINS-ISKE 2024, AJCAI 2023.
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
