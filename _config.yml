@@ -22,7 +22,7 @@ repository               : "kunkun111/kunkun111.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "kun.png"
   name             : "Kun Wang"
   pronouns         : # example: "she/her"  
   bio              : "Kun Wang is currently the lecture of the School of Computer Engineering and Science, Shanghai University. "
