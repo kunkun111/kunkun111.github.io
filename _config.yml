@@ -23,11 +23,11 @@ repository               : "kunkun111/kunkun111.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Kun Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Kun Wang is currently the lecture of the School of Computer Engineering and Science, Shanghai University. "
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Shanghai University"
   uri              : # URL
   email            : "none@example.org" 
 
