@@ -10,43 +10,88 @@ redirect_from:
 Kun Wang is currently the lecture of the School of Computer Engineering and Science, Shanghai University. She has finished her Postdoctoral Research Fellow in 2025 at Australian Artificial Intelligence Institute (AAII), Faculty of Engineering and Information Technology (FEIT), University of Technology Sydney (UTS). She received her Ph.D. in Software Engineering from the University of Technology Sydney (UTS) in 2024, and her Ph.D. in Management Science and Engineering from Shanghai University (SHU) in 2023. Her research interests include concept drift adaptation, data stream mining, machine learning, and information management. She have publish papers on journals and conferences like TCYB, Neurocomputing, Physica A, AJCAI, FLIN-ISKE, KES. She also serves as a reviewer of journals and conferences like TNNLS, TFS, TCYB, KBS, Neurocomputing, Neural Networks, FLINS-ISKE, AJCAI, IJCNN, AAAI, ACMM, SIGKDD Workshop, ICLR, ICML. She also works as a PC member of FLINS-ISKE 2024, AJCAI 2023.
 
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Data stream learning, Concept drift detection and adaptation, Spatio-temporal data mining, Machine learning, Ensemble learning
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+Recent News
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+2025--We have a special session "Advances in Spatio-temporal Data Mining: Methods and Applications" on the ISKE2025 conference.
+
+2025--We have a paper accepted by Computers & Industrial Engineering.
+
+2024--We have a special session "Autonomous Learning in Uncertain Decision Situations" in FLINS-ISKE2024, and two papers have been accepted.
+
+2024--We have a paper accepted by TCYB.
+
+2024--We have a paper accepted by Physica A.
+
+2024--We have a paper accepted by Neurocomputing.
+
+2023--We have a paper accepted by AJCAI2023.
+
+2023--We have a paper accepted by KES2023.
+
+2023--We have attended the workshop of IJCNN2023.
+
+
+Recent Journal Papers
+======
+Kun Wang, Jie Lu, Anjin Liu, Guangquan Zhang. TS-DM: A time segmentation-based data stream learning method for concept drift adaptation[J]. IEEE Transactions on Cybernetics, 2024, 54(10): 6000-6011.（IF=9.4）
+
+Kun Wang, Li Xiong, Anjin Liu, Guangquan Zhang, Jie Lu. A self-adaptive ensemble for user interest drift learning[J]. Neurocomputing, 2024, 577, 127308.（IF=5.5）
+
+Kun Wang, Li Xiong, Rudan Xue. Real-time data stream learning for emergency decision-making under uncertainty[J]. Physica A: Statistical Mechanics and its Applications}}, 2024, 633, 129429.（IF=2.8） 
+
+Kun Wang, Jie Lu, Anjin Liu, Guangquan Zhang, Li Xiong. Evolving gradient boost: A pruning scheme based on loss improvement ratio for learning under concept drift[J]. IEEE Transactions on Cybernetics, 2023, 53(4): 2110 - 2123.（IF=9.4）
+
+Kun Wang, Jie Lu, Anjin Liu, Yiliao Song, Guangquan Zhang, Li Xiong. Elastic gradient boosting decision tree with adaptive iterations for concept drift adaptation[J]. Neurocomputing, 2022, 491, 288-304.（IF=5.5）
+
+
+Recent Conference Papers
+======
+Kun Wang, Jie Lu, Anjin Liu, Guangquan Zhang, An adaptive stacking method for multiple data streams learning under concept drift[C]. In FLINS-ISKE 2024. 
+
+Bin Zhang, Jie Lu, Kun Wang, Guangquan Zhang, ML4MDS: A machine learning platform for multiple data stream[C]. In FLINS-ISKE 2024. 
+
+Kun Wang, Jie Lu, Anjin Liu, Guangquan Zhang, TCR-M: A topic change recognition-based method for data stream learning[C]. In KES 2023. 
+
+Kun Wang, Jie Lu, Anjin Liu, Guangquan Zhang, An augmented learning approach for multiple data streams under concept drift[C]. In AJCAI 2023.
+
+Kun Wang, Anjin Liu, Jie Lu, Guangquan Zhang, Li Xiong. An elastic gradient boosting decision tree for concept drift learning[C]. In AJCAI 2020. 
+
+
+Research Services
+======
+PC member
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+FLINS-ISKE 2024, AJCAI 2023
 
-Create content & metadata
+Journal reviewer
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+TNNLS, TFS, TCYB, KBS, Neurocomputing, Neural Networks, The Journal of Supercomputing
 
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Conference reviewer
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+FLINS-ISKE, AJCAI, IJCNN, AAAI, ACMM, SIGKDD Workshop, ICLR, ICML
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+Activities
+======
+2024--FLINS-ISKE 2024 (Oral presentation)
+
+2023--AJCAI 2023 (Oral presentation)
+
+2023--KES 2023 (Oral presentation)
+
+2023--IJCNN 2023 (Attend workshop)
+
+2020--AJCAI 2020 (Oral presentation)
+
+2019--LISS 2018 (Oral presentation)
+
+2017--CNAIS 2017(Oral presentation)
+
