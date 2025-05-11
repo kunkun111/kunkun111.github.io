@@ -7,6 +7,12 @@ redirect_from:
   - /publications
 ---
 
+{% if site.author.googlescholar %}  
+  <p>See more on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</p>  
+{% endif %}
+
+
+
 ## Journal Papers
 
 1. **Kun Wang**, Jie Lu, Anjin Liu, Guangquan Zhang, "TS-DM: A time segmentation-based data stream learning method for concept drift adaptation", *IEEE Transactions on Cybernetics*, 2024. [[Link]](https://ieeexplore.ieee.org/document/10633795)  
@@ -28,8 +34,5 @@ redirect_from:
 - **Kun Wang**, Anjin Liu, Jie Lu, Guangquan Zhang, Li Xiong, "An elastic gradient boosting decision tree for concept drift learning", *AJCAI 2020*. [[Link]](https://www.sciencedirect.com/science/article/pii/S1877050923014515)
 
 
-{% if site.author.googlescholar %}  
-  <p>See more on <a href="{{site.author.googlescholar}}">Google Scholar</a>.</p>  
-{% endif %}
 
 
