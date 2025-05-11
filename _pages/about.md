@@ -16,23 +16,23 @@ Data stream learning, Concept drift detection and adaptation, Spatio-temporal da
 Recent News:
 ======
 
-* 2025--We have a special session "*Advances in Spatio-temporal Data Mining: Methods and Applications*" in the ISKE 2025 conference.
+* 2025--We have a special session "*Advances in Spatio-temporal Data Mining: Methods and Applications*" in the ISKE 2025 conference. Congratulations!
 
-* 2025--We have a paper accepted by *Computers & Industrial Engineering*.
+* 2025--We have a paper accepted by *Computers & Industrial Engineering*. Congratulations!
 
-* 2024--We have a special session "*Autonomous Learning in Uncertain Decision Situations*" in *FLINS-ISKE 2024*, and two papers have been accepted.
+* 2024--We have a special session "*Autonomous Learning in Uncertain Decision Situations*" in *FLINS-ISKE 2024*, and two papers have been accepted. Congratulations!
 
-* 2024--We have a paper accepted by *TCYB*.
+* 2024--We have a paper accepted by *TCYB*. Congratulations!
 
-* 2024--We have a paper accepted by *Physica A: Statistical Mechanics and its Applications*.
+* 2024--We have a paper accepted by *Physica A: Statistical Mechanics and its Applications*. Congratulations!
 
-* 2024--We have a paper accepted by *Neurocomputing*.
+* 2024--We have a paper accepted by *Neurocomputing*. Congratulations!
 
-* 2023--We have a paper accepted by *AJCAI 2023*.
+* 2023--We have a paper accepted by *AJCAI 2023*. Congratulations!
 
-* 2023--We have a paper accepted by *KES 2023*.
+* 2023--We have a paper accepted by *KES 2023*. Congratulations!
 
-* 2023--We have attended the workshop of *IJCNN 2023*.
+* 2023--We have attended the workshop of *IJCNN 2023*. Congratulations!
 
 Recent Journal Papers:
 ======
