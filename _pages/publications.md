@@ -10,8 +10,7 @@ redirect_from:
 
 ## Journal Papers
 
-1. **Your Name**, "Paper Title", *Journal Name*, 2023. [[PDF]](#)  
-   - *Brief description if needed.*  
+1. **Kun Wang**, Jie Lu, Anjin Liu, Guangquan Zhang, "TS-DM: A time segmentation-based data stream learning method for concept drift adaptation", *IEEE Transactions on Cybernetics*, 2024. [[Link]](https://ieeexplore.ieee.org/document/10633795)  
 
 2. **Your Name**, Co-author, "Paper Title", *Journal Name*, 2022. [[PDF]](#)  
 
