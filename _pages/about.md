@@ -16,7 +16,7 @@ Data stream learning, Concept drift detection and adaptation, Spatio-temporal da
 Recent News:
 ======
 
-* 2025--We have a special session "*Advances in Spatio-temporal Data Mining: Methods and Applications*" in the ISKE 2025 conference. Congratulations!
+* 2025--We have a special session "*Advances in Spatio-temporal Data Mining: Methods and Applications*" in the *ISKE 2025* conference. Congratulations!
 
 * 2025--We have a paper accepted by *Computers & Industrial Engineering*. Congratulations!
 
