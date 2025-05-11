@@ -16,11 +16,11 @@ Data stream learning, Concept drift detection and adaptation, Spatio-temporal da
 Recent News:
 ======
 
-* 2025--We have a special session "Advances in Spatio-temporal Data Mining: Methods and Applications" on the ISKE2025 conference.
+* 2025--We have a special session "Advances in Spatio-temporal Data Mining: Methods and Applications" in the ISKE 2025 conference.
 
 * 2025--We have a paper accepted by Computers & Industrial Engineering.
 
-* 2024--We have a special session "Autonomous Learning in Uncertain Decision Situations" in FLINS-ISKE2024, and two papers have been accepted.
+* 2024--We have a special session "Autonomous Learning in Uncertain Decision Situations" in FLINS-ISKE 2024, and two papers have been accepted.
 
 * 2024--We have a paper accepted by TCYB.
 
@@ -28,11 +28,11 @@ Recent News:
 
 * 2024--We have a paper accepted by Neurocomputing.
 
-* 2023--We have a paper accepted by AJCAI2023.
+* 2023--We have a paper accepted by AJCAI 2023.
 
-* 2023--We have a paper accepted by KES2023.
+* 2023--We have a paper accepted by KES 2023.
 
-* 2023--We have attended the workshop of IJCNN2023.
+* 2023--We have attended the workshop of IJCNN 2023.
 
 Recent Journal Papers:
 ======
@@ -40,7 +40,7 @@ Recent Journal Papers:
 
 * Kun Wang, Li Xiong, Anjin Liu, Guangquan Zhang, Jie Lu. A self-adaptive ensemble for user interest drift learning[J]. Neurocomputing, 2024, 577, 127308.（IF=5.5）
 
-* Kun Wang, Li Xiong, Rudan Xue. Real-time data stream learning for emergency decision-making under uncertainty[J]. Physica A: Statistical Mechanics and its Applications}}, 2024, 633, 129429.（IF=2.8） 
+* Kun Wang, Li Xiong, Rudan Xue. Real-time data stream learning for emergency decision-making under uncertainty[J]. Physica A: Statistical Mechanics and its Applications, 2024, 633, 129429.（IF=2.8） 
 
 * Kun Wang, Jie Lu, Anjin Liu, Guangquan Zhang, Li Xiong. Evolving gradient boost: A pruning scheme based on loss improvement ratio for learning under concept drift[J]. IEEE Transactions on Cybernetics, 2023, 53(4): 2110 - 2123.（IF=9.4）
 
