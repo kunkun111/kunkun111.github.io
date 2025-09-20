@@ -15,6 +15,8 @@ redirect_from:
 
 ## Recent Journal Papers
 
+- **Kun Wang**, Jie Lu, Anjin Liu, "Adaptive Information Fusion-Based Concept Drift Learning for Evolving Multiple Data Streams", *IEEE Transactions on Knowledge and Data Engineering*, 2025. [[Link]](https://ieeexplore.ieee.org/document/11164523)
+  
 - **Kun Wang**, Jie Lu, Anjin Liu, Guangquan Zhang, "TS-DM: A time segmentation-based data stream learning method for concept drift adaptation", *IEEE Transactions on Cybernetics*, 2024. [[Link]](https://ieeexplore.ieee.org/document/10633795)
 
 - **Kun Wang**,Li Xiong, Rudan Xue, "Real-time data stream learning for emergency decision-making under uncertainty", *Physica A: Statistical Mechanics and its Applications*, 2024. [[Link]](https://ieeexplore.ieee.org/document/10633795)
