@@ -40,7 +40,7 @@ Recent News:
 Recent Journal Papers:
 ======
 - **Kun Wang**, Jie Lu, Anjin Liu, "Adaptive Information Fusion-Based Concept Drift Learning for Evolving Multiple Data Streams", *IEEE Transactions on Knowledge and Data Engineering*, 2025. [[Link]](https://ieeexplore.ieee.org/document/11164523)
-- 
+  
 - **Kun Wang**, Jie Lu, Anjin Liu, Guangquan Zhang, "TS-DM: A time segmentation-based data stream learning method for concept drift adaptation", *IEEE Transactions on Cybernetics*, 2024. [[Link]](https://ieeexplore.ieee.org/document/10633795)
 
 - **Kun Wang**,Li Xiong, Rudan Xue, "Real-time data stream learning for emergency decision-making under uncertainty", *Physica A: Statistical Mechanics and its Applications*, 2024. [[Link]](https://ieeexplore.ieee.org/document/10633795)
@@ -54,6 +54,8 @@ Recent Journal Papers:
 
 Recent Conference Papers:
 ======
+- **Kun Wang**, Hang Yu, Adaptive Diffusion Learning for Non-Stationary Data Streams with Concept Drift, *ISKE 2025*. Accepted.
+  
 - **Kun Wang**, Jie Lu, Anjin Liu, Guangquan Zhang, An adaptive stacking method for multiple data streams learning under concept drift, *FLINS-ISKE 2024*. [[Link]](https://www.worldscientific.com/doi/10.1142/9789811294631_0034)
 
 - Bin Zhang, Jie Lu, **Kun Wang**, Guangquan Zhang, ML4MDS: A machine learning platform for multiple data stream, *FLINS-ISKE 2024*. [[Link]](https://www.worldscientific.com/doi/10.1142/9789811294631_0034)
