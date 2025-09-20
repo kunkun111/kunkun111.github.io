@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
  
-Kun Wang is currently the lecture of the School of Computer Engineering and Science, Shanghai University. She has finished her Postdoctoral Research Fellow in 2025 at Australian Artificial Intelligence Institute (AAII), Faculty of Engineering and Information Technology (FEIT), University of Technology Sydney (UTS). She received her Ph.D. in Software Engineering from the University of Technology Sydney (UTS) in 2024, and her Ph.D. in Management Science and Engineering from Shanghai University (SHU) in 2023. Her research interests include concept drift adaptation, data stream mining, machine learning, and information management. She have publish papers on journals and conferences like TCYB, Neurocomputing, Physica A, AJCAI, FLIN-ISKE, KES. She also serves as a reviewer of journals and conferences like TNNLS, TFS, TCYB, KBS, Neurocomputing, Neural Networks, FLINS-ISKE, AJCAI, IJCNN, AAAI, ACMM, SIGKDD Workshop, ICLR, ICML. She also works as a PC member of FLINS-ISKE 2024, AJCAI 2023.
+Kun Wang is currently the lecture of the School of Computer Engineering and Science, Shanghai University. She has finished her Postdoctoral Research Fellow in 2025 at Australian Artificial Intelligence Institute (AAII), Faculty of Engineering and Information Technology (FEIT), University of Technology Sydney (UTS). She received her Ph.D. in Software Engineering from the University of Technology Sydney (UTS) in 2024, and her Ph.D. in Management Science and Engineering from Shanghai University (SHU) in 2023. Her research interests include concept drift adaptation, data stream mining, machine learning, and information management. She has publish papers on journals and conferences like TCYB, Neurocomputing, Physica A, AJCAI, FLIN-ISKE, KES. She also serves as a reviewer of journals and conferences like TNNLS, TFS, TCYB, KBS, Neurocomputing, Neural Networks, FLINS-ISKE, AJCAI, IJCNN, AAAI, ACMM, SIGKDD Workshop, ICLR, ICML. She also works as a PC member of ISKE 2025, FLINS-ISKE 2024, AJCAI 2023.
 
 Research Interests:
 ======
@@ -15,6 +15,9 @@ Data stream learning, Concept drift detection and adaptation, Spatio-temporal da
 
 Recent News:
 ======
+* 2025--We have a paper accepted by "*IEEE Transactions on Knowledge and Data Engineering*". Congratulations!
+
+* 2025--We have a paper accepted by  *ISKE 2025* conference. Congratulations!
 
 * 2025--We have a special session "*Advances in Spatio-temporal Data Mining: Methods and Applications*" in the *ISKE 2025* conference. Congratulations!
 
