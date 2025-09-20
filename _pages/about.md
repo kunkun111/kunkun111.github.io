@@ -11,7 +11,7 @@ Kun Wang is currently the lecture of the School of Computer Engineering and Scie
 
 Research Interests:
 ======
-Data stream learning, Concept drift detection and adaptation, Spatio-temporal data mining, Machine learning, Ensemble learning
+Data stream learning, Online learning, Concept drift detection and adaptation, Spatio-temporal data mining, Machine learning, Ensemble learning
 
 Recent News:
 ======
