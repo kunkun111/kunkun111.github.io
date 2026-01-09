@@ -9,10 +9,12 @@ redirect_from:
  
 Kun Wang is currently a lecture of the School of Computer Engineering and Science, Shanghai University. She has finished her Postdoctoral Research Fellow in 2025 at Australian Artificial Intelligence Institute (AAII), Faculty of Engineering and Information Technology (FEIT), University of Technology Sydney (UTS). She received her Ph.D. in Software Engineering from the University of Technology Sydney (UTS) in 2024, and her Ph.D. in Management Science and Engineering from Shanghai University (SHU) in 2023. Her research interests include spatio-temporal data mining, concept drift adaptation, data stream mining, machine learning, and information management. She has published papers on journals and conferences like TCYB, TKDE, Neurocomputing, Physica A, AJCAI, FLIN-ISKE, KES. She also serves as a reviewer of journals and conferences like IEEE TNNLS, IEEE TFS, IEEE TCYB, IEEE IOT, IEEE SMC systems, KBS, Neurocomputing, Neural Networks, FLINS-ISKE, AJCAI, IJCNN, AAAI, ACMM, SIGKDD Workshop, ICLR, ICML, AISTATS. She also works as a PC member of FLINS-ISKE 2026, ISKE 2025, FLINS-ISKE 2024, AJCAI 2023.
 
+======
 Research Interests:
 ======
 Data stream learning, Online learning, Concept drift detection and adaptation, Spatio-temporal data mining, Machine learning, Ensemble learning
 
+======
 Recent News:
 ======
 * 2026--We have a special session "*Spatio-Temporal Autonomous Learning in Uncertain Decision Situations*" in *FLINS-ISKE 2026*. Congratulations!
@@ -41,6 +43,7 @@ Recent News:
 
 * 2023--We have attended the workshop of *IJCNN 2023*. Congratulations!
 
+======
 Recent Journal Papers:
 ======
 - **Kun Wang**, Jie Lu, Anjin Liu, "Adaptive Information Fusion-Based Concept Drift Learning for Evolving Multiple Data Streams", *IEEE Transactions on Knowledge and Data Engineering*, 2025. [[Link]](https://ieeexplore.ieee.org/document/11164523)
@@ -55,7 +58,7 @@ Recent Journal Papers:
 
 - **Kun Wang**, Jie Lu, Anjin Liu, Yiliao Song, Guangquan Zhang, Li Xiong, "Elastic gradient boosting decision tree with adaptive iterations for concept drift adaptation", *Neurocomputing*, 2022. [[Link]](https://ieeexplore.ieee.org/document/9562149)
 
-
+======
 Recent Conference Papers:
 ======
 - En Yu, Jie Lu, **Kun Wang**, Guangquan Zhang, Drift-aware collaborative assistance mixture of experts for heterogeneous multistream learning, *AAAI 2026*. Accepted.
@@ -73,11 +76,12 @@ Recent Conference Papers:
 - **Kun Wang**, Anjin Liu, Jie Lu, Guangquan Zhang, Li Xiong, "An elastic gradient boosting decision tree for concept drift learning", *AJCAI 2020*. [[Link]](https://www.sciencedirect.com/science/article/pii/S1877050923014515)
 
 
+======
 Research Projects:
 ====== 
 * 2026-2027, Shanghai Magnolia Talent Plan Pujiang Project(2025PJA041), PI
 
-
+======
 Research Services:
 ======
 * PC member/Organizer
@@ -92,10 +96,12 @@ IEEE TNNLS, IEEE TFS, IEEE TCYB, IEEE IOT, IEEE SMC systems, KBS, Neurocomputing
 ------
 FLINS-ISKE, AJCAI, IJCNN, AAAI, ACMM, SIGKDD Workshop, ICLR, ICML, AISTATS
 
-
+======
 Activities:
 ====== 
 * 2025--ISKE 2025 (Oral presentation)
+  
+* 2025--CNCC 2025 (Oral presentation)
   
 * 2024--FLINS-ISKE 2024 (Oral presentation)
 
