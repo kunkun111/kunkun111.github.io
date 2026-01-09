@@ -79,7 +79,7 @@ Recent Conference Papers:
 ======
 Research Projects:
 ====== 
-* 2026-2027, Shanghai Magnolia Talent Plan Pujiang Project(2025PJA041), PI
+* 2026-2027, Shanghai Magnolia Talent Plan Pujiang Project (2025PJA041), PI
 
 ======
 Research Services:
