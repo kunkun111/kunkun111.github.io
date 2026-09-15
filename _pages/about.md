@@ -18,6 +18,12 @@ Data stream learning, Online learning, Concept drift detection and adaptation, S
 
 
 
+招生情况:
+======
+目前还有研究生招生名额，欢迎感兴趣生成式建模、时空数据学习的同学加入课题组！
+
+
+
 
 Recent News:
 ======
